@@ -1,6 +1,8 @@
 tensorflow==2.20.0
-pandas
-scikit-learn
-nbformat
-nbclient
-ipykernel
+keras==3.10.0
+numpy==2.0.2
+pandas==2.3.3
+scikit-learn==1.6.1
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.31.0
